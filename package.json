@@ -1,0 +1,23 @@
+{
+  "name": "subscribed",
+  "version": "1.0.0",
+  "description": "NPM Package for creating subscribable events.",
+  "main": "src/subscribed.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangium/subscribed.git"
+  },
+  "keywords": [
+    "event",
+    "system",
+    "handler",
+    "subscribe",
+    "subscribed"
+  ],
+  "author": "Floffah",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Mangium/subscribed/issues"
+  },
+  "homepage": "https://github.com/Mangium/subscribed#readme"
+}
